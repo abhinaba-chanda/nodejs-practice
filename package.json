@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-practice",
+  "version": "1.0.0",
+  "description": "Beginner Node.js programs: CLI todo app, HTTP server, file reading, events, fetch and crypto. No dependencies.",
+  "scripts": {
+    "test": "node --test",
+    "hello": "node 01-hello-node/hello.js",
+    "todo": "node 02-todo-cli/todo.js",
+    "server": "node 03-http-server/server.js"
+  },
+  "engines": { "node": ">=18" },
+  "author": "Abhinaba Chanda",
+  "license": "MIT"
+}
