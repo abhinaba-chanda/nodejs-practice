@@ -20,6 +20,9 @@ so there is nothing to install: just `node file.js`.
 | 5 | [Match countdown](05-events-and-timers/countdown.js) | `EventEmitter`, timers, `async/await` | `node 05-events-and-timers/countdown.js 5` |
 | 6 | [Random joke](06-api-fetch/joke.js) | `fetch` from a free public API | `node 06-api-fetch/joke.js` |
 | 7 | [Password generator](07-password-generator/password.js) | `crypto`, shuffling | `node 07-password-generator/password.js 16` |
+| 8 | [CSV to JSON](08-csv-to-json/csv.js) | reading files, `split`, `map` | `node 08-csv-to-json/csv.js` |
+| 9 | [URL parser](09-url-parser/url-info.js) | `URL`, `URLSearchParams` | `node 09-url-parser/url-info.js "https://example.com/?q=node"` |
+| 10 | [File hash](10-file-hash/hash.js) | `crypto` hashes, streams, Promises | `node 10-file-hash/hash.js package.json` |
 
 ## 📝 Todo app example
 
